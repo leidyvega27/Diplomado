@@ -1,0 +1,84 @@
+body{
+    background: rgb(148, 183, 228);}
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: pink;
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: pink;
+}
+.Mayor{
+      width: 100%;
+      height: 500px;
+      border: 1px solid black;
+      display: flex;
+      justify-content:center;
+     
+  }   
+
+.Mediana{
+    width: 95%;
+    height: 400px;
+    border: 1px double royalblue;
+    display: flex;
+    justify-content:space-around;
+    
+  }
+
+.parrafo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    size: 25;
+    text-align: justify;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.parrafoM{ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    size: 25;
+    text-align: justify;
+    background-color: salmon;
+}
+
+.causas{
+    background: rgb(245, 67, 245);
+}
+
+.parrafoL{
+    text-align: justify;
+    background-color: springgreen;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    size: 25;
+}
+
+.sintomasM{
+    background-color: rgb(62, 211, 62);
+}
+
+.TiposC{
+    text-align: justify;
+    background-color: rgb(200, 255, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    size: 25;
+}
+
+.TiposB{
+    background-color: yellowgreen;
+}
+
+
+.pequenaP{
+    width: 720px;
+    height: 200px;
+    display:flexbox;
+    justify-content:space-evenly;
+}
+
+.listaL{
+ display: flexbox;
+  list-style: square;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  size:25
+}
